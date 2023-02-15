@@ -1,0 +1,33 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+button{
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    width: 75%;
+    height: 40;
+    margin-left: 50;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+}
+label{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow';
+    text-align: left;
+}
+input{
+    background-color: lightgray;
+    border-radius: 5px;
+    width: 75%;
+    height: 30;
+    text-align: left;
+    margin-left: 50;
+}
+fieldset{
+    width: 75%;
+}
+.labelText{
+    margin-left: 50;
+}
