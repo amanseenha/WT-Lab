@@ -15,14 +15,19 @@ public class Q3 {
         break;
       case 3, 10, 17, 24:
         System.out.println("Friday");
+        break;
       case 4, 11, 18, 25:
         System.out.println("Saturday");
+        break;
       case 5, 12, 19, 26:
         System.out.println("Sunday");
+        break;
       case 6, 13, 20, 27:
         System.out.println("Monday");
+        break;
       case 7, 14, 21, 28:
         System.out.println("Tuesday");
+        break;
       default:
         System.out.println("Wrong Input!! Enter between 1-28");
         break;
