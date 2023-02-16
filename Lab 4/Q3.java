@@ -10,7 +10,7 @@ public class Q3 {
       case 1, 8, 15, 22:
         System.out.println("Wednesday");
         break;
-      case 2, 9, 16, 23, 30:
+      case 2, 9, 16, 23:
         System.out.println("Thursday");
         break;
       case 3, 10, 17, 24:
