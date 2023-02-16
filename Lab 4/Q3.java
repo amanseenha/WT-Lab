@@ -7,7 +7,7 @@ public class Q3 {
     System.out.println("Enter date: ");
     int date = sc.nextInt();
     switch (date) {
-      case 1, 8, 15, 22, 29:
+      case 1, 8, 15, 22:
         System.out.println("Wednesday");
         break;
       case 2, 9, 16, 23, 30:
