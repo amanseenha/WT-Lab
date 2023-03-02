@@ -2,6 +2,9 @@ class Box{
     float length;
     float width;
     float height;
+    float volume(){
+        return length*width*height;
+    }
 }
 
 class Demo extends Box{
