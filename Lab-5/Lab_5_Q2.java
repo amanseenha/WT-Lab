@@ -11,7 +11,7 @@ public class Lab_5_Q2 {
         } else {
           odd++;
         }
-      } catch (NumberFormatException e) {
+      } catch (NumberFormatException err) {
         System.out.println("Enter valid integer inputs");
       }
     }
