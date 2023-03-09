@@ -12,6 +12,6 @@ public class q3{
      q3 ar = new q3();
         System.out.println(ar.area(5.5f));
         System.out.println(ar.area(2.5f, 10.2f));
-        System.out.println(5);   
+        System.out.println(ar.area(5));   
     }
 }

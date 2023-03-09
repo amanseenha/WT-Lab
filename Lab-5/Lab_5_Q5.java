@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Lab_5_Q5 {
 
 	public static void main(String[] args) {

@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Lab_5_Q4 {
 	static int count(int[] arr,int x,int[] check) {
 		int count=0;
