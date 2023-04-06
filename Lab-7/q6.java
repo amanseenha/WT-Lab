@@ -22,7 +22,7 @@ class savings extends acc{
 public class q6 {
 
 	public static void main(String[] args) {
-		savings s=new savings("yash",121,1000);
+		savings s=new savings("Aman",121,1000);
 		s.display();
 	}
 
