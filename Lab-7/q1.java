@@ -1,5 +1,3 @@
-import java.util.*;
-
 class twoD{
 	void calculate(int l,int b) {
 		System.out.println("Cost: "+40*l*b);
@@ -14,10 +12,9 @@ class threeD extends twoD{
 public class q1 {
 
 	public static void main(String[] args) {
-		int l,b,h;
 		threeD box=new threeD();
-		box.calculate(5, 6);
-		box.calculate(5, 6,7);
+		box.calculate(6, 5);
+		box.calculate(5, 8,7);
 	}
 
 }
